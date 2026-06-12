@@ -27,7 +27,5 @@ public class CalcValidator implements Validator {
 					"左側の数値は奇数、右側の数値は偶数でなければなりません。");
 			}
 		}
-
 	}
-
 }
